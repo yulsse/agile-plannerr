@@ -1,2 +1,13 @@
-# agile-plannerr
-Desktop app for personal Agile task management
+# Agile Planner
+
+Программа-планировщик Agile для личного пользования.
+
+## Функционал
+- Kanban-доска (To Do / In Progress / Done)
+- Приоритизация задач
+- Трекинг времени
+- Статистика и аналитика
+
+## Технологии
+- Python / PyQt (или выберите ваш стек)
+- SQLite
